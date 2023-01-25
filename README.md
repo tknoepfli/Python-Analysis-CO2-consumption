@@ -43,7 +43,7 @@ This repository includes the following:
 
 -   Scripts: The Python scripts used to clean, wrangle, analyze, and visualize the data
 
--   Portfolio piece: A PDF presentation providing a quick overview of the project
+-   Reporting: A PDF presentation providing a quick overview of the project
 
 -   The Tableau presentation resulting from the project can be found at https://public.tableau.com/views/FinalAchievement-ClimateDashboard/Wholivessustainably?:language=en-US&:display_count=n&:origin=viz_share_link 
 
