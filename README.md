@@ -39,6 +39,8 @@ Deliverables
 
 This repository includes the following:
 
+-   Data: The wrangled and cleaned data used for this project
+
 -   Scripts: The Python scripts used to clean, wrangle, analyze, and visualize the data
 
 -   Portfolio piece: A PDF presentation providing a quick overview of the project
