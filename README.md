@@ -1,7 +1,7 @@
 CO2 Footprint Analysis
 ==================
 
-The goal of this project was to examine the state of the world when it comes to countries’ consumption-based CO2 emissions footprints and the relationship with human development and happiness of their citizens, in view of the accelerating climate crisis, in an analysis of various open source data. In addition, 
+The goal of this project was to examine the state of the world when it comes to countries’ consumption-based CO2 emissions footprints and the relationship with human development and happiness of their citizens, in view of the accelerating climate crisis, in an analysis of various open source data. The insights gained through the analysis were visualized on a Tableau storyboard.
 
 Objective
 ---------
